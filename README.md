@@ -2,7 +2,9 @@
 
 [Aero10](https://www.deviantart.com/vaporvance/art/909711949) faithfully ported to Windows 11.
 
-![screenshot](screenshot.png)'
+*Made with permission from vaporvance.*
+
+![screenshot](screenshot.png)
 
 # Prerequisites
 
@@ -26,6 +28,3 @@ The file structure should resemble this:
 4. The theme comes bundled with the Windows 7 wallpaper and accent color, but if you would prefer to use your own wallpapers or colors you can override anything through Windows personalization settings.
 
 _Additional setup is needed to get an accurate Windows 7 look._
-
----
-*Made with permission from vaporvance.*
