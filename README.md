@@ -1,6 +1,6 @@
 # Aero11
 
-[Aero10](https://www.deviantart.com/vaporvance/art/909711949) faithfully ported to Windows 11.
+[Aero10](https://www.deviantart.com/vaporvance/art/909711949) faithfully ported to Windows 11, with the necessary changes to make it work properly.
 
 Currently, only the Seven variant is ported.
 
