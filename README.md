@@ -2,6 +2,8 @@
 
 [Aero10](https://www.deviantart.com/vaporvance/art/909711949) faithfully ported to Windows 11.
 
+Currently, only the Seven variant is ported.
+
 *Made with permission from vaporvance.*
 
 ![screenshot](screenshot.png)
