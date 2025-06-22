@@ -1,8 +1,10 @@
-# Aero11
+# Aero11: Vista
 
 [Aero10](https://www.deviantart.com/vaporvance/art/909711949) faithfully ported to Windows 11, with the necessary changes to make it work properly.
 
-Currently, only the Seven variant is ported.
+This branch houses the Windows Vista version of Aero11, all available versions are listed below.
+
+[Aero11: Seven](https://github.com/SandTechStuff/Aero11/tree/aero11_seven) | [Aero11: Vista](https://github.com/SandTechStuff/Aero11/tree/aero11_vista)
 
 *Made with permission from vaporvance.*
 
@@ -20,16 +22,7 @@ Currently, only the Seven variant is ported.
 
 1. After patching UxTheme, download the latest release of the theme from [Releases](https://github.com/SandTechStuff/Aero11/releases) (Aero11.zip).
 2. Extract the downloaded zip and place the contents in `C:\Windows\Resources\Themes`.
-
-The file structure should resemble this:
-
-- `C:`
-	- `Windows`
-		- `Resources`
-			- `Themes`
-				- `Aero11`
-				- `Aero11_Seven.theme`
 3. Either double click one of the `.theme` files from within the `Themes` folder or select your desired theme from within Windows settings.
-4. The theme comes bundled with the Windows 7 wallpaper and accent color, but if you would prefer to use your own wallpapers or colors you can override anything through Windows personalization settings.
+4. The theme comes bundled with the Windows Vista wallpaper and accent color, but if you would prefer to use your own wallpapers or colors you can override anything through Windows personalization settings.
 
-_Additional setup is needed to get an accurate Windows 7 look._
+_Additional setup is needed to get an accurate Windows Vista look._
