@@ -1,10 +1,10 @@
-# Aero11: Seven
+# Aero11: Metro
 
-[Aero10](https://www.deviantart.com/vaporvance/art/909711949) faithfully ported to Windows 11, with the necessary changes to make it work properly.
+[Aero10](https://www.deviantart.com/vaporvance/art/Aero10-Metro-1006184615) faithfully ported to Windows 11, with the necessary changes to make it work properly.
 
-This branch houses the Windows 7 version of Aero11, all available versions are listed below.
+This branch houses the Windows 8.x version of Aero11, all available versions are listed below.
 
-[Aero11: Seven](https://github.com/SandTechStuff/Aero11/tree/aero11_seven) | [Aero11: Vista](https://github.com/SandTechStuff/Aero11/tree/aero11_vista)
+[Aero11: Seven](https://github.com/SandTechStuff/Aero11/tree/aero11_seven) | [Aero11: Vista](https://github.com/SandTechStuff/Aero11/tree/aero11_vista) | [Aero11: Metro](https://github.com/SandTechStuff/Aero11/tree/aero11_metro)
 
 *Made with permission from vaporvance.*
 
@@ -23,6 +23,6 @@ This branch houses the Windows 7 version of Aero11, all available versions are l
 1. After patching UxTheme, download the latest release of the theme from [Releases](https://github.com/SandTechStuff/Aero11/releases) (Aero11.zip).
 2. Extract the downloaded zip and place the contents in `C:\Windows\Resources\Themes`.
 3. Either double click one of the `.theme` files from within the `Themes` folder or select your desired theme from within Windows settings.
-4. The theme comes bundled with the Windows 7 wallpaper and accent color, but if you would prefer to use your own wallpapers or colors you can override anything through Windows personalization settings.
+4. The theme comes bundled with the Windows 8.x wallpaper and accent color, but if you would prefer to use your own wallpapers or colors you can override anything through Windows personalization settings.
 
-_Additional setup is needed to get an accurate Windows 7 look._
+_Additional setup is needed to get an accurate Windows 8.x look._
