@@ -4,7 +4,7 @@
 
 This branch houses the Windows Vista version of Aero11, all available versions are listed below.
 
-[Aero11: Seven](https://github.com/SandTechStuff/Aero11/tree/aero11_seven) | [Aero11: Vista](https://github.com/SandTechStuff/Aero11/tree/aero11_vista)
+[Aero11: Seven](https://github.com/SandTechStuff/Aero11/tree/aero11_seven) | [Aero11: Vista](https://github.com/SandTechStuff/Aero11/tree/aero11_vista) | [Aero11: Metro](https://github.com/SandTechStuff/Aero11/tree/aero11_metro)
 
 *Made with permission from vaporvance.*
 
