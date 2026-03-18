@@ -9,7 +9,6 @@ This branch houses the Windows Vista version of Aero11, all available versions a
 *Made with permission from vaporvance.*
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SandTechStuff/Aero11/total)
-![GitHub last commit](https://img.shields.io/github/last-commit/SandTechStuff/Aero11)
 
 ![screenshot](screenshot.png)
 
