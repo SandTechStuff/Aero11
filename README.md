@@ -9,7 +9,6 @@ This branch houses the Windows 8.x version of Aero11, all available versions are
 *Made with permission from vaporvance.*
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SandTechStuff/Aero11/total)
-![GitHub last commit](https://img.shields.io/github/last-commit/SandTechStuff/Aero11)
 
 ![screenshot](screenshot.png)
 
