@@ -1,3 +1,8 @@
+> [!NOTE]
+> vaporvance has released an official port of Aero10 to Windows 11. It currently does not include Metro or Vista variants, but nevertheless the Aero11 theme will most likely be discontinued in favor of Aero10.1.
+> 
+> Link to Aero10.1: https://github.com/vaporvance/aero10
+
 # Aero11: Seven
 
 [Aero10](https://www.deviantart.com/vaporvance/art/909711949) faithfully ported to Windows 11, with the necessary changes to make it work properly.
